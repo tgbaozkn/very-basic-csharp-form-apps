@@ -1,0 +1,10 @@
+C:\Users\Toshiba\c#uygulamalarım\repos\karedikdortgenucgenhesaplama\karedikdortgenucgenhesaplama\bin\Debug\karedikdortgenucgenhesaplama.exe.config
+C:\Users\Toshiba\c#uygulamalarım\repos\karedikdortgenucgenhesaplama\karedikdortgenucgenhesaplama\bin\Debug\karedikdortgenucgenhesaplama.exe
+C:\Users\Toshiba\c#uygulamalarım\repos\karedikdortgenucgenhesaplama\karedikdortgenucgenhesaplama\bin\Debug\karedikdortgenucgenhesaplama.pdb
+C:\Users\Toshiba\c#uygulamalarım\repos\karedikdortgenucgenhesaplama\karedikdortgenucgenhesaplama\obj\Debug\karedikdortgenucgenhesaplama.csprojAssemblyReference.cache
+C:\Users\Toshiba\c#uygulamalarım\repos\karedikdortgenucgenhesaplama\karedikdortgenucgenhesaplama\obj\Debug\karedikdortgenucgenhesaplama.Form1.resources
+C:\Users\Toshiba\c#uygulamalarım\repos\karedikdortgenucgenhesaplama\karedikdortgenucgenhesaplama\obj\Debug\karedikdortgenucgenhesaplama.Properties.Resources.resources
+C:\Users\Toshiba\c#uygulamalarım\repos\karedikdortgenucgenhesaplama\karedikdortgenucgenhesaplama\obj\Debug\karedikdortgenucgenhesaplama.csproj.GenerateResource.cache
+C:\Users\Toshiba\c#uygulamalarım\repos\karedikdortgenucgenhesaplama\karedikdortgenucgenhesaplama\obj\Debug\karedikdortgenucgenhesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\c#uygulamalarım\repos\karedikdortgenucgenhesaplama\karedikdortgenucgenhesaplama\obj\Debug\karedikdortgenucgenhesaplama.exe
+C:\Users\Toshiba\c#uygulamalarım\repos\karedikdortgenucgenhesaplama\karedikdortgenucgenhesaplama\obj\Debug\karedikdortgenucgenhesaplama.pdb

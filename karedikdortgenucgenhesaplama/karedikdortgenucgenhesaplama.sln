@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "karedikdortgenucgenhesaplama", "karedikdortgenucgenhesaplama\karedikdortgenucgenhesaplama.csproj", "{446E29A8-F3BD-484A-AD17-53BE234F2ADA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{446E29A8-F3BD-484A-AD17-53BE234F2ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{446E29A8-F3BD-484A-AD17-53BE234F2ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{446E29A8-F3BD-484A-AD17-53BE234F2ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{446E29A8-F3BD-484A-AD17-53BE234F2ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8D8AD43-5EA4-438A-B2E7-CFBAFB37D006}
+	EndGlobalSection
+EndGlobal
