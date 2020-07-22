@@ -9,3 +9,14 @@ C:\Users\Toshiba\c#uygulamalarım\very-basic-csharp-form-apps\form3\form3\obj\De
 C:\Users\Toshiba\c#uygulamalarım\very-basic-csharp-form-apps\form3\form3\obj\Debug\form3.exe
 C:\Users\Toshiba\c#uygulamalarım\very-basic-csharp-form-apps\form3\form3\obj\Debug\form3.pdb
 C:\Users\Toshiba\c#uygulamalarım\very-basic-csharp-form-apps\form3\form3\obj\Debug\form3.csprojAssemblyReference.cache
+C:\Users\Toshiba\c#uygulamalarım\very-basic-csharp-form-apps\passingbetweenforms\form3\bin\Debug\form3.exe.config
+C:\Users\Toshiba\c#uygulamalarım\very-basic-csharp-form-apps\passingbetweenforms\form3\bin\Debug\form3.exe
+C:\Users\Toshiba\c#uygulamalarım\very-basic-csharp-form-apps\passingbetweenforms\form3\bin\Debug\form3.pdb
+C:\Users\Toshiba\c#uygulamalarım\very-basic-csharp-form-apps\passingbetweenforms\form3\obj\Debug\form3.csprojAssemblyReference.cache
+C:\Users\Toshiba\c#uygulamalarım\very-basic-csharp-form-apps\passingbetweenforms\form3\obj\Debug\form3.Form1.resources
+C:\Users\Toshiba\c#uygulamalarım\very-basic-csharp-form-apps\passingbetweenforms\form3\obj\Debug\form3.Form2.resources
+C:\Users\Toshiba\c#uygulamalarım\very-basic-csharp-form-apps\passingbetweenforms\form3\obj\Debug\form3.Properties.Resources.resources
+C:\Users\Toshiba\c#uygulamalarım\very-basic-csharp-form-apps\passingbetweenforms\form3\obj\Debug\form3.csproj.GenerateResource.cache
+C:\Users\Toshiba\c#uygulamalarım\very-basic-csharp-form-apps\passingbetweenforms\form3\obj\Debug\form3.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\c#uygulamalarım\very-basic-csharp-form-apps\passingbetweenforms\form3\obj\Debug\form3.exe
+C:\Users\Toshiba\c#uygulamalarım\very-basic-csharp-form-apps\passingbetweenforms\form3\obj\Debug\form3.pdb

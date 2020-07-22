@@ -40,34 +40,34 @@ namespace form3
             if(comboBox1.Text =="Blue")
             {
                 button2.BackColor = Color.Blue;
-                MessageBox.Show("Hello   " + " "  + Form1.title + " ,You chose this color ::"+ comboBox1.Text + "This mean is depth and freedom ." );
+                MessageBox.Show("Hello   " + " "  + Form1.title + " ,You chose this color :"+ comboBox1.Text + "!,This means depth and freedom ." );
             }
             if (comboBox1.Text == "Red")
             {
                 button2.BackColor = Color.Red;
-                MessageBox.Show("Hello   " + " "  + Form1.title + " ,You chose this color ::" + comboBox1.Text + "This mean is the life .");
+                MessageBox.Show("Hello   " + " "  + Form1.title + " ,You chose this color :" + comboBox1.Text + "!,This means the life .");
             }
             if (comboBox1.Text == "Yellow")
             {
                 button2.BackColor = Color.Yellow;
-                MessageBox.Show("Hello   " + " "  + Form1.title + " ,You chose this color ::" + comboBox1.Text + "This mean is none.");
+                MessageBox.Show("Hello   " + " "  + Form1.title + " ,You chose this color :" + comboBox1.Text + "!,This means none.");
             }
             if (comboBox1.Text == "Black")
             {
                 button2.BackColor = Color.Black;
-                MessageBox.Show("Hello   " + " "  + Form1.title + " ,You chose this color ::" + comboBox1.Text + "This mean is pessimism .");
+                MessageBox.Show("Hello   " + " "  + Form1.title + " ,You chose this color :" + comboBox1.Text + "!,This means pessimism .");
             }
             if (comboBox1.Text == "Orange")
             {
                 button2.BackColor = Color.Orange;
-                MessageBox.Show("Hello   " + " "  + Form1.title + " ,You chose this color ::" + comboBox1.Text + "This mean is action .");
+                MessageBox.Show("Hello   " + " "  + Form1.title + " ,You chose this color :" + comboBox1.Text + "!,This means action .");
             }
             if (comboBox1.Text == "White")
             {
                 button2.BackColor = Color.White;
-                MessageBox.Show("Hello   " + " "  + Form1.title + " ,You chose this color ::" + comboBox1.Text + "This mean is innocence .");
+                MessageBox.Show("Hello   " + " "  + Form1.title + " ,You chose this color :" + comboBox1.Text + "!,This means innocence .");
             }
-            else
+            if(comboBox1.Text == "")
             {
                 MessageBox.Show("You didn't choose any color!"+ " "  + Form1.title);
             }

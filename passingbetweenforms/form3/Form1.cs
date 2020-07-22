@@ -26,7 +26,7 @@ namespace form3
         private void button1_Click(object sender, EventArgs e)
         {
             Form2 form2 = new Form2();
-            if(textBox1.Text == "tugba" && textBox2.Text == "1234")
+            if(textBox1.Text == "tugba" && textBox2.Text == "123")
             {
                 form2.Show();
                 this.Hide();
@@ -40,8 +40,13 @@ namespace form3
             }
             else if(textBox1.Text != "tugba" || textBox2.Text != "1234")
             {
-                MessageBox.Show("Yanlis giris");
+                MessageBox.Show("Yanlis giris!");
             }
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
