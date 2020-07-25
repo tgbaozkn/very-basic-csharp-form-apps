@@ -25,10 +25,7 @@ namespace horseracing
             thirdhorsedis = pictureBox3.Left;
         }
 
-        private void label6_Click(object sender, EventArgs e)
-        {
 
-        }
 
         private void timer1_Tick(object sender, EventArgs e)
         {
@@ -36,35 +33,34 @@ namespace horseracing
             time = time + 1;
 
             label9.Text = time.ToString();
-            pictureBox1.Left += random.Next(18, 31);
-            pictureBox2.Left += random.Next(18, 31);
-            pictureBox3.Left += random.Next(18, 31);
+            pictureBox1.Left += random.Next(18, 25);
+            pictureBox2.Left += random.Next(18, 25);
+            pictureBox3.Left += random.Next(18, 25);
 
             int finishline = label6.Left;
             int firsthorse = (pictureBox1.Right - finishline);
             int secondhorse = (pictureBox2.Right - finishline);
             int thirdhorse = (pictureBox3.Right - finishline);
-         
-         
-            if (firsthorse ==0)
+
+            if (firsthorse >= -0.5)
             {
                 timer1.Enabled = false;
-                MessageBox.Show("Winner :First Horse!");
+                MessageBox.Show("Winner : First Horse!");
                 Application.Exit();
             }
-            if (secondhorse == 0)
+            if (secondhorse >= -0.5)
             {
                 timer1.Enabled = false;
                 MessageBox.Show("Winner : Second Horse!");
                 Application.Exit();
             }
-            if (thirdhorse == 0)
+            if (thirdhorse >= -0.5)
             {
                 timer1.Enabled = false;
                 MessageBox.Show("Winner : Third Horse!");
                 Application.Exit();
             }
-            if(secondhorse < firsthorse || secondhorse< thirdhorse)
+            if (secondhorse < firsthorse || secondhorse < thirdhorse)
             {
                 label8.Text = "Second horse is taking the lead!";
             }
@@ -78,20 +74,7 @@ namespace horseracing
             }
         }
 
-        private void pictureBox3_Click(object sender, EventArgs e)
-        {
 
-        }
-
-        private void label9_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
-        }
 
         private void button1_Click(object sender, EventArgs e)
         {
